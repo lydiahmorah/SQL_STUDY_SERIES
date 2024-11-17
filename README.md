@@ -5,6 +5,7 @@ This repository focuses on studying SQL, covering basic queries to advanced conc
 It is designed as a resource for understanding SQL through hands-on examples and real-world applications.
 
 Due to the large number of tables involved, a comprehensive query has been provided to fetch all table structures and data directly from MySQL
+To get all the tables paste the query under this script #[1a create_moviestables]
 
 ## Key Features
 - **SQL Basics:** Introduces foundational SQL concepts such as querying data, filtering results, and combining tables.
